@@ -15,7 +15,7 @@ This repository contains the training and inference notebooks for the midterm Ka
 1. Clone the repository
 2. Environment: Open the .ipynb files and execute the second code block to install all dependencies.
 3. Data: Download the training and testing dataset from the Kaggle competition `DL Spring 2026 – SVG Generation from Text Prompts`.
-4. Install the required package mentioned in Important Notes and run `Training_DL_fixed.ipyn`b for Model Fine-tuning and `Inference_DL_fixed.ipynb` for generating SVG outputs.
+4. Install the required package mentioned in Important Notes and run `Training_DL_fixed.ipynb` for Model Fine-tuning and `Inference_DL_fixed.ipynb` for generating SVG outputs.
 
 ## Model Weights
 - https://drive.google.com/drive/folders/1WETSTQYQdaPD9Gdjn2ilmlVlrewitgaI?usp=drive_link
