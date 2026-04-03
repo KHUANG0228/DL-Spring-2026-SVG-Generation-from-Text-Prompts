@@ -6,7 +6,7 @@ This repository contains the training and inference notebooks for the midterm Ka
 - `Inference_DL_fixed.ipynb`: notebook for SVG generation
 
 ## Important Notes
-- For both notebooks, please run the "second block" first to install the required package before executing the whole notebook.
+- For both notebooks, please run the "second block" first to install the required package and restart the notebook before executing the whole notebook.
 - Please igonore the errors in both of the notebooks since these are used to test if the overall pipeline could be executed successfully.
 - The notebooks are provided to demonstrate the full training and inference pipeline.
 
